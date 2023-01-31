@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #branch 1
 =======
 #branch 1
 #branch 2
 #branch 2-2
 >>>>>>> f0ec96f (add line 1)
+=======
+#branch 1
+#branch 2
+#branch 2-2
+>>>>>>> f9838488a192fe20bad7f4a7a4d402e3a50d50dc
